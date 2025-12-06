@@ -1,0 +1,9 @@
+{
+  "name": "RIZBOT Crypto",
+  "description": "Next-generation Crypto trading platform featuring RIZBOT AI Live Audio, Veo Video Analysis, Thinking Mode Predictions, and Real-time Technical Analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
